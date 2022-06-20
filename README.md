@@ -24,7 +24,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/mahmoudzin/DevFolio/main/main.png)
+![screenshot](https://github.com/mahmoudzin/DevFolio/blob/main/main.png)
 
 - You |Can See Demo from [here]("https://mahmoudzin.github.io/DevFolio/)
 
